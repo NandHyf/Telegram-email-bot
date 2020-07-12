@@ -135,7 +135,7 @@ pip3 install python-telegram-bot
 
 图示：遇到代理错误：
 
-![errorFixed](./READMEPic/proxyerror.png)
+![proxyError](./READMEPic/proxyError.png)
 
 图示：程序自行解决代理错误：
 
