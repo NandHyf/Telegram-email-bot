@@ -26,7 +26,7 @@ Telegram eMail bot
 
 邮件内容将被解析并拼接为以下形式进行推送
 
-```toml
+```txt
 2020-07-12 12:31:50.371531
 Pulled from recipient@example.com
 No.1 to No.3
