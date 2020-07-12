@@ -145,7 +145,9 @@ pip3 install python-telegram-bot
 
 ![received](./READMEPic/received.jpg)
 
+### 项目地址
 
+[NandHyf/Telegram-email-bot](https://github.com/NandHyf/Telegram-email-bot)
 
 ### 参考资料
 
