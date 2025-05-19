@@ -167,4 +167,4 @@ pip3 install python-telegram-bot
 
 ### 欢迎一起讨论新功能🧐
 
-交流讨论👉📧heyufei@gwlk.icu
+交流讨论👉📧nandhyf@outlook.com
